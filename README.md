@@ -2,7 +2,7 @@
 Latent Dirichlect Topic Modeling on the authors with their reads link over 350+ and over more than 1000+ of documents mined to create a outcome for the Topics overly popular. 
 In my project:
 
-We can see that the result is 
+We can see that the result is :dart:
 
 "The highest coherence score is : 0.4962 for number of topics = 14 alpha = 0.3 and beta = auto."
 Which means, Outcome: 
